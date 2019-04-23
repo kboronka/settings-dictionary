@@ -1,6 +1,0 @@
-C:\Users\kboronka\Desktop\code\settings-dictionary\bin\Debug\settings_dictionary.exe.config
-C:\Users\kboronka\Desktop\code\settings-dictionary\bin\Debug\settings_dictionary.exe
-C:\Users\kboronka\Desktop\code\settings-dictionary\bin\Debug\settings_dictionary.pdb
-C:\Users\kboronka\Desktop\code\settings-dictionary\obj\Debug\settings-dictionary.csprojResolveAssemblyReference.cache
-C:\Users\kboronka\Desktop\code\settings-dictionary\obj\Debug\settings_dictionary.exe
-C:\Users\kboronka\Desktop\code\settings-dictionary\obj\Debug\settings_dictionary.pdb
