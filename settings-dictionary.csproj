@@ -63,8 +63,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseSetting.cs" />
+    <Compile Include="IDatabaseConnection.cs" />
+    <Compile Include="ISetting.cs" />
+    <Compile Include="MockDatabase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingDictionary.cs" />
+    <Compile Include="VirtualDictonary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
