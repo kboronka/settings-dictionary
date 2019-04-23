@@ -1,6 +1,8 @@
 # settings-dictionary
-C# dictionary fun times
+Automatically read settings from the database if the dictionary cache object does not contain it.
 
+
+### Example
 ```C#
 public static void Main(string[] args)
 {
